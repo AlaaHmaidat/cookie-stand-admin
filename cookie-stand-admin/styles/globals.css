@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+header.flex.items-center.justify-between.p-4.bg-gray-500.text-gray-50 {
+  background-color: rgb(34 177 76);
+}
+footer.p-4.mt-8.bg-gray-500.text-gray-50 {
+  background-color: rgb(33 196 93);
+}
+
+form.flex.flex-col.text-center {
+  background-color: rgb(134 238 172);
+  border-radius: 10px
+}
+
+button.px-4.py-1.bg-gray-500.text-gray-50 {
+  background-color: rgb(33 196 93);
+}
